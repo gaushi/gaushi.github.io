@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: ""
+title: ""
 ----
 
 I am Gautam Shirsekar.
