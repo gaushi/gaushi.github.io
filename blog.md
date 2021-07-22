@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Journal Club / Blog"
+title: "Blog"
 ---
 
 {% if site.show_excerpts %}
