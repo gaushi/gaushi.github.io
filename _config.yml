@@ -19,8 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV"}
   - {file: "research.md", title: "Research"}
   - {file: "blog.md", title: "Blog"}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "publications.md" , title: "Publications"}
+  #- {file: "index.html"}
+  #- {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:shirsekar.1@gmail.com"}
