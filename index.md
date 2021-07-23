@@ -4,4 +4,4 @@ title : ""
 ---
 
 I am Gautam Shirsekar.
-![Gautam](/gsMPI.jpg){.callout}
+<img style="float: right;" src="gsMPI.jpg" width="150" height="100">
