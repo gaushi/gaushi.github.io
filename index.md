@@ -3,11 +3,15 @@ layout : page
 title : ""
 ---
 <table>
-  <tr><td width="60%" valign="top" halign="left">
+  <tr><td width="60%" valign="top" align="left">
       I am a post-doctoral researcher interested in plant-pathogen interactions.
-      This is my website. V1</td>
+      This is my website. V2
+<ul>
+  <li>here is point1</li>
+  <li>here is point2</li>
+</ul></td>
     <td width="40%">
-      <img style="float: center;" src="gsMPI.jpg" width="100%"></img>
+      <img style="float: center;" src="gsMPI.jpg" width="100%"/>
     </td>
   </tr>
 </table>
