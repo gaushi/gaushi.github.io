@@ -2,10 +2,10 @@
 layout : page
 title : ""
 ---
-<table>
+<table border="none">
   <tr><td width="60%" valign="top" align="left">
       I am a post-doctoral researcher interested in plant-pathogen interactions.
-      This is my website. V2
+      This is my website. V3
 <ul>
   <li>here is point1</li>
   <li>here is point2</li>
