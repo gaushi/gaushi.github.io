@@ -1,4 +1,4 @@
-<a href="mailto:shirsekar.1@gmail.com">
+  <a href="mailto:shirsekar.1@gmail.com">
     <svg aria-label="Mail" class="icon">
       <use xlink:href="/assets/fontawesome/icons.svg#envelope"></use>
     </svg>
