@@ -5,9 +5,7 @@ title : ""
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 <div id='id-section1' width='60%' />
-## Section 1
-<div id='id-section2' width='40%' />
-## Section 2
+
 
 | Priority apples | Second priority | Third priority |
 |-------|--------|---------|
