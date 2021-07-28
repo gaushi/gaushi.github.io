@@ -30,6 +30,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:shirsekar.1@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/gaushi"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/gaushi"}
+  - {title: scholar.google, icon: scholar, url: "https://scholar.google.com/citations?user=UL6yZWYAAAAJ&hl=en&oi=ao"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
