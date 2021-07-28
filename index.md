@@ -6,12 +6,6 @@ title : ""
 Some introduction text, formatted in heading 2 style
 <div id='id-section1' width='60%' />
 
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-
 <table>
 <colgroup>
 <col width="30%" />
