@@ -21,4 +21,4 @@ Some introduction text, formatted in heading 2 style
 
 * here is point1 
 * here is point2 
-# Hello World
+# Hello World :)
