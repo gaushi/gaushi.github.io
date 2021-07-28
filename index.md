@@ -2,13 +2,12 @@
 layout : page
 title : ""
 ---
-## This is the introduction <a name="introduction"></a>
+## About me <a name="introduction"></a>
 Postdoctoral Researcher at Max Planck Institute for Developmental Biology.
 
 <table>
   <tr><td width="60%" valign="top" align="left">
-      I am a post-doctoral researcher interested in plant-pathogen interactions.
-      This is my website. Working on borders....
+      I'm a ohio state university, USA graduate Postdoctoral reseacher; currently working at Max Planck Institute Tuebingen, Germany.
 <ul>
   <li>here is point1</li>
   <li>here is point2</li>
