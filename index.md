@@ -2,10 +2,9 @@
 layout : page
 title : ""
 ---
-## About me <a name="introduction"></a>
-
 <table>
   <tr><td width="60%" valign="top" align="left">
+      ## About me <a name="introduction"></a>
       Postdoctoral Researcher at Max Planck Institute for Developmental Biology; Tuebingen, Germany.
       I'm a ohio state university, USA graduate Postdoctoral reseacher.
 <ul>
