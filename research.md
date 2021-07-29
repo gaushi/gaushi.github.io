@@ -1,9 +1,9 @@
   <a href="research"> << back </a></br>
-  <table height="60%" valign="top" align="center">
+  <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">
-      <a href="research">
-        <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      <a href="">
+        <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
       </a>
     </td>
     <td width="20%" height="100%" valign="top" style="border: none;">
