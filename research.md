@@ -2,16 +2,24 @@
   <table height="60%" valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">
-      <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      <a href="research.md">
+        <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      </a>
     </td>
     <td width="20%" height="100%" valign="top" style="border: none;">
-      <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      <a href="research.md">
+        <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      </a>    
     </td>
     <td width="20%" height="100%" valign="top" style="border: none;">
-      <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      <a href="research.md">
+        <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      </a>
     </td>
     <td width="20%" height="100%" valign="top" style="border: none;">
-      <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      <a href="research.md">
+        <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="95%" width="95%"/>
+      </a>
     </td>
   </tr>
   </table>
