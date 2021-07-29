@@ -1,12 +1,13 @@
-  <a href="mailto:shirsekar.1@gmail.com">
+  <a href="research.md"> << back </a></br>
+  <a href="research.md">
     <img height="120" width="20%" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
   </a>
-  <a href="mailto:shirsekar.1@gmail.com">
+  <a href="research.md">
     <img height="120" width="20%" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
   </a>
-  <a href="mailto:shirsekar.1@gmail.com">
+  <a href="research.md">
     <img height="120" width="20%" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
   </a>
-  <a href="mailto:shirsekar.1@gmail.com">
+  <a href="research.md">
     <img height="120" width="20%" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
   </a>
