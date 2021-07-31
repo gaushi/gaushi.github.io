@@ -11,7 +11,7 @@ layout: page
       <div class="more"><a href="{% link files/research1.md %}">more n more</a></div>
    </li>
    <li>
-     <img style="float: center;" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" height="25%" width="25%"/>
+     <img style="float: center;" valign="bottom" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" height="25%" width="25%"/>
      <div class="more"><a href="{% link files/research1.md %}">more n more</a></div>
    </li>
    </ul>
