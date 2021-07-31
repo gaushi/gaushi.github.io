@@ -1,7 +1,7 @@
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">
-      <a href="/_research/research1.md">
+      <a href="research/research1.md">
         <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
       </a>
     </td>
