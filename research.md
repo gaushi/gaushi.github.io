@@ -1,4 +1,5 @@
   [Back]({% link research.md %})
+  [details]({% link files/research1.md %})
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">
