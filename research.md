@@ -1,3 +1,4 @@
+  [Back]({%link Research %})
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">
