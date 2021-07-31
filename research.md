@@ -3,6 +3,14 @@ title: "Researchs"
 layout: page
 ---
   [details]({% link files/research1.md %})
+  <ul>
+   <li>
+      <a href="{% link files/research1.md %}">more n more</a>
+   </li>
+   <li>
+      <a href="{% link files/research1.md %}">more n more</a>
+   </li>
+   </ul>
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">[details]({% link files/research1.md %})</td>
