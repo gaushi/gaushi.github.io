@@ -1,5 +1,5 @@
 ---
-title: "Contact|GautamShirsekar"
+title: "Contact"
 layout: page
 ---
 GET IN TOUCH
