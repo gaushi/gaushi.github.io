@@ -1,6 +1,5 @@
 ---
-title: "File1"
-permalink: "/research1/"
+title: "GS-Research1"
 layout: page
 ---
 TBD
