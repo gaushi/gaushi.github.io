@@ -3,6 +3,8 @@ title: "Researchs"
 layout: page
 ---
   [details]({% link files/research1.md %})
+  {% include meta.html post=post preview=true %}
+   
   <ul>
    <li>
      <img style="float: center;" valign="bottom" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" height="25%" width="25%"/>
