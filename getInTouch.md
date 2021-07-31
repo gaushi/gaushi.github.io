@@ -21,7 +21,7 @@ layout: page
 </ul>
 </td>
     <td width="40%" height="60%" valign="top" style="border: none;">
-      <img style="float: center;" src="gsMPI.jpg" width="100%"/>
+      <img style="float: center;" src="/assets/images/Gautam_Indiana.JPG" width="100%"/>
     </td>
   </tr>
 </table>
