@@ -8,7 +8,7 @@ layout: page
       I'm a ohio state university, USA graduate Postdoctoral reseacher.
 </td>
     <td width="40%" height="60%" valign="top" style="border: none;">
-      <img style="float: center;" src="./gsMPI.jpg" width="100%"/>
+      <img style="float: center;" src="../assets/images/Gautam_Hpa_infectedPlant.JPG" width="100%"/>
     </td>
   </tr>
 </table>
