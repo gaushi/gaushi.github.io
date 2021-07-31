@@ -2,7 +2,6 @@
 layout : page
 title : "About me"
 ---
-## About me <a name="introduction"></a>
 <table height="60%">
   <tr><td width="60%" height="60%" valign="top" align="left">
       Postdoctoral Researcher at Max Planck Institute for Developmental Biology; Tuebingen, Germany.
