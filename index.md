@@ -1,6 +1,6 @@
 ---
 layout : page
-title : ""
+title : "About me"
 ---
 ## About me <a name="introduction"></a>
 <table height="60%">
