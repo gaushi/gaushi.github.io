@@ -5,13 +5,19 @@ layout: page
   [details]({% link files/research1.md %})
   <ul>
    <li>
-      <a href="{% link files/research1.md %}">more</a>
+      <div class="more"><a href="{% link files/research1.md %}">First one..</a></div>
    </li>
    <li>
       <div class="more"><a href="{% link files/research1.md %}">more n more</a></div>
    </li>
+   <li>
+      <div class="more"><a href="{% link files/research1.md %}">more n more</a></div>
+   </li>
+   <li>
+     <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG" height="25%" width="25%"/>
+   </li>
    </ul>
-   <div class="more"><a href="{% link files/research1.md %}">more n more n some more</a></div>
+   
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">[details]({% link files/research1.md %})</td>
