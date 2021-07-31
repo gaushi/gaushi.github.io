@@ -6,7 +6,7 @@ title : "About me"
   <tr><td width="60%" height="60%" valign="top" align="left">
       I am a Post-Doctoral Researcher at Max Planck Institute for Developmental Biology in the lab of Detlef Weigel; Tuebingen, Germany.
       My research focuses on Teeny tiny plant called -----. I have a broad interest in many ......  
-     For more information on my research interests and projects, check out my [Research page]({% link research.md %} !
+     For more information on my research interests and projects, check out my <div class="more"><a href="{% link research.md %}">Research page</a></div>!
     
     Education:
 <ul>
