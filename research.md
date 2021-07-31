@@ -1,10 +1,10 @@
-  Back]({% link research.md %})
+  [Back]({% link research.md %})
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">
-      <a href="/research1.md">
+      
         <img style="float: center;" src="assets/images/Gautam_Hpa_infectedPlant.JPG"/>
-      </a>
+      
     </td>
     <td width="20%" height="100%" valign="top" style="border: none;">
       <a href="/research2.md">
