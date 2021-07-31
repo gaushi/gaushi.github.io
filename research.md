@@ -3,7 +3,7 @@ title: "Researchs"
 layout: page
 ---
   [details]({% link files/research1.md %})
-  {% include meta.html post=post preview=true %}
+  {% include meta.html preview=true %}
    
   <ul>
    <li>
