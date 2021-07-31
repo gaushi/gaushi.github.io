@@ -5,12 +5,13 @@ layout: page
   [details]({% link files/research1.md %})
   <ul>
    <li>
-      <a href="{% link files/research1.md %}">more n more</a>
+      <a href="{% link files/research1.md %}">more</a>
    </li>
    <li>
-      <a href="{% link files/research1.md %}">more n more</a>
+      <div class="more"><a href="{% link files/research1.md %}">more n more</a></div>
    </li>
    </ul>
+   <div class="more"><a href="{% link files/research1.md %}">more n more n some more</a></div>
   <table valign="top" align="center">
   <tr>
     <td width="20%" height="100%" valign="top" align="left">[details]({% link files/research1.md %})</td>
