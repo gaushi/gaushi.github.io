@@ -4,7 +4,7 @@ layout: page
 ---
   [details]({% link files/research1.md %})
   <ul>
-   <li class="more">
+   <li>
       <div class="more"><a href="{% link files/research1.md %}">First one..</a></div>
    </li>
    <li>
