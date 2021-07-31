@@ -1,6 +1,6 @@
 ---
 title: "File1"
-permalink: "/File1/"
+permalink: "/research1./"
 layout: page
 ---
-[back] ({% link research %})
+[back] ({% link research.md %})
