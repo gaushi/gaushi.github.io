@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
   <header><h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
-  {% if page.title == "Research" %}
+  {% if page.title contains "Research" %} 
     <script>
     {% include ../assets/MP_JS/vTab.js %}
     </script>
