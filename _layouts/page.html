@@ -4,9 +4,7 @@ layout: default
 <article>
   <header><h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
   {% if page.title contains "Research" %} 
-    <script>
-    {% include ../assets/MP_JS/vTab.js %}
-    </script>
+    <script src="{{ site.baseurl }}{% link assets/MP_JS/vTab.js %}" </script>
   {% endif %}
   </header>
   {{ content }}
