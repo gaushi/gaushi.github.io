@@ -1,5 +1,5 @@
 ---
-title: "Researchs"
+title: "Research"
 layout: page
 ---
   [details]({% link files/research1.md %})
