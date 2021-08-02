@@ -27,6 +27,10 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
+ {% if page.title contains "Research" %} 
+    <script src="{{ site.baseurl }}{% link assets/MP_JS/vTab.js %}" </script>
+ {% endif %}
+  
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
