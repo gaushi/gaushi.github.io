@@ -3,9 +3,9 @@ title: "Research"
 layout: page
 ---
 <div class="tab">
-  <button class="tablinks active">Plant evolutionary genetics</button>
-  <button class="tablinks">Paris</button>
-  <button class="tablinks">Tokyo</button>
+  <a class="tablinks active">Plant evolutionary genetics</a>
+  <a class="tablinks">Paris</a>
+  <a class="tablinks">Tokyo</a>
 </div>
 <div class="tabcontent" style="display: block;">
   <h3>evolutionary genetics</h3>
