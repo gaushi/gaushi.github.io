@@ -2,10 +2,14 @@
 title: "Research"
 layout: page
 ---
-<div class="tab">
-  <button class="tablinks active">Plant evolutionary genetics</button>
-  <button class="tablinks">Paris</button>
-  <button class="tablinks">Tokyo</button>
+<div class="more">
+  <a>Plant evolutionary genetics</a>
+ </div>
+ <div class="more">
+  <a>Paris</a>
+ </div>
+ <div class="more">
+  <a>Tokyo</a>
 </div>
 <div class="tabcontent" style="display: block;">
   <h3>evolutionary genetics</h3>
