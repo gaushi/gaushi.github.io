@@ -13,14 +13,7 @@ end of short description</p>
 end of short description</p>
 
 <h2 id="R1">Research 1</h2>
-<p>This chapter explains ba bla bla
-This chapter explains ba bla bla
-This chapter explains ba bla bla
-This chapter explains ba bla bla
-This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla
-
-This chapter explains ba bla bla
-v
+<p>{% include_relative research1.md %}
 </p>
 
 <h2 id="R2">Research 2</h2>
