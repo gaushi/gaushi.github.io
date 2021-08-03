@@ -1,8 +1,3 @@
----
-title: "GS-Research1"
-layout: page
-permalink: /research1/
----
 <strong> content mostly in MD </strong>
 
 This is the Teeny Tiny plant I work on. I love to spends hours and days and...years just looking at it and falling in love with it.
