@@ -1,3 +1,4 @@
+<!-- start on line#2 --> 
 <strong> content mostly in MD </strong>
 
 This is the Teeny Tiny plant I work on. I love to spends hours and days and...years just looking at it and falling in love with it.
@@ -5,6 +6,8 @@ This is the Teeny Tiny plant I work on. I love to spends hours and days and...ye
 You might ask me how much do I love this teeny tiny thing; well I love it so much that at the end I KILL it :D :D :D
 
 <img style="float: center;" align="top" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" height="60%" width="40%"/>
+
+Here you can compare MD vs HTML
 
 <strong> content in HTML </strong>
 <!-- this is how HTML multiline comments work -->
