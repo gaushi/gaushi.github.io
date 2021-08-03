@@ -1,6 +1,7 @@
 ---
 title: "GS-Research1"
 layout: page
+permalink: /research1/
 ---
 <strong> content mostly in MD </strong>
 
