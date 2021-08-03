@@ -3,9 +3,9 @@ title: "Research"
 layout: page
 ---
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'R1')" id="defaultOpen">London</button>
-  <button class="tablinks" onclick="openCity(event, 'R2')">Paris</button>
-  <button class="tablinks" onclick="#R3")">Tokyo</button>
+  <button class="tablinks" onclick="#R1" id="defaultOpen">London</button>
+  <button class="tablinks" onclick="#R2">Paris</button>
+  <button class="tablinks" onclick="#R3">Tokyo</button>
 </div>
 
 <div id="R1" class="tabcontent">
