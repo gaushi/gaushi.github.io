@@ -2,7 +2,6 @@
 title: "Research"
 layout: page
 ---
-
 <p><a id="TopOFThePage" href="#R1">Title of Research 1</a> some description may be .....
 end of short description</p>
 <p><a href="#R2">Title of Research 2</a> some description may be .....
@@ -13,16 +12,14 @@ end of short description</p>
 end of short description</p>
 
 <h2 id="R1">Research 1</h2>
-<p> test {% include_relative /files/research1.md %}
+<p> Text if you want to add any
+  {% include_relative /files/research1.md %}
 </p>
 
 <h2 id="R2">Research 2</h2>
-<p>This chapter explains ba bla bla
-This chapter explains ba bla bla
-vv
-v
-vThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla
-This chapter explains ba bla bla</p>
+<p> Text if you want to add any
+  {% include_relative /files/research2.md %}
+</p>
 
 <h2 id="R3">Research 3</h2>
 <p>This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla</p>
