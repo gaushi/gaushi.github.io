@@ -3,23 +3,23 @@ title: "Research"
 layout: page
 ---
 <div class="tab">
-  <button class="tablinks" onclick="#R1" id="defaultOpen">London</button>
-  <button class="tablinks" onclick="#R2">Paris</button>
-  <button class="tablinks" onclick="#R3">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'R1')" id="defaultOpen">Research 1 </button>
+  <button class="tablinks" onclick="openCity(event, 'R2')">Research 2</button>
+  <button class="tablinks" onclick="openCity(event, 'R3')"">Research 3</button>
 </div>
 
 <div id="R1" class="tabcontent">
-  <h3>London</h3>
+  <h3>Research 1</h3>
   <p>London is the capital city of England.</p>
 </div>
 
 <div id="R2" class="tabcontent">
-  <h3>Paris</h3>
+  <h3>Research 2</h3>
   <p>Paris is the capital of France.</p> 
 </div>
 
 <div id="R3" class="tabcontent">
-  <h3>Tokyo</h3>
+  <h3>Research 3</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
 
