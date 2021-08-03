@@ -2,26 +2,23 @@
 title: "Research"
 layout: page
 ---
-<h2>Vertical Tabs</h2>
-<p>Click on the buttons inside the tabbed menu:</p>
-
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'R1')" id="defaultOpen">London</button>
+  <button class="tablinks" onclick="openCity(event, 'R2')">Paris</button>
+  <button class="tablinks" onclick="#R3")">Tokyo</button>
 </div>
 
-<div id="London" class="tabcontent">
+<div id="R1" class="tabcontent">
   <h3>London</h3>
   <p>London is the capital city of England.</p>
 </div>
 
-<div id="Paris" class="tabcontent">
+<div id="R2" class="tabcontent">
   <h3>Paris</h3>
   <p>Paris is the capital of France.</p> 
 </div>
 
-<div id="Tokyo" class="tabcontent">
+<div id="R3" class="tabcontent">
   <h3>Tokyo</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
