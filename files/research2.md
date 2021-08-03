@@ -1,7 +1,3 @@
----
-title: "GS-Research2"
-layout: page
----
 <table height="60%">
   <tr><td width="60%" height="60%" valign="top" align="left">
       That is me looking for my beloved Teeny Tiny plant.
