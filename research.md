@@ -2,7 +2,7 @@
 title: "Research"
 layout: page
 ---
-<p><a id="TopOFThePage" href="#R1">Title of Research 1</a> some description may be .....
+<p><a href="#R1">Title of Research 1</a> some description may be .....
 end of short description</p>
 <p><a href="#R2">Title of Research 2</a> some description may be .....
 end of short description</p>
@@ -11,7 +11,7 @@ end of short description</p>
 <p><a href="#R4">Title of Research 4</a> some description may be .....
 end of short description</p>
 
-<h2 id="R1">Research 1</h2>                   <!--Title of your research -->
+<h2 id="R1">Research 1</h2> <!--Title of your research -->
 <p> 
   Text if you want to add any                 <!-- Optional and additional text -->
   {% include_relative /files/research1.md %}  <!-- Include the .md file with data/content of your research  OR add the content manually. -->
