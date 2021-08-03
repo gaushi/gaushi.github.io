@@ -16,20 +16,20 @@ end of short description</p>
   Text if you want to add any                 <!-- Optional and additional text -->
   {% include_relative /files/research1.md %}  <!-- Include the .md file with data/content of your research  OR add the content manually. -->
 </p>
-<a align="right"  href="#TopOFThePage">Top</a> <!-- a link to go back to the top of this page -->
+<a align="right"  href="#TopOFTheResearchPage">Top</a> <!-- a link to go back to the top of this page -->
 
 <h2 id="R2">Research 2</h2>
 <p> Text if you want to add any
   {% include_relative /files/research2.md %}
 </p>
-<a align="right"  href="#TopOFThePage">Top</a>
+<a align="right"  href="#TopOFTheResearchPage">Top</a>
 
 <h2 id="R3">Research 3</h2>
 <p>
   This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla
 </p>
-<a align="right"  href="#TopOFThePage">Top</a>
+<a align="right"  href="#TopOFTheResearchPage">Top</a>
 
 <h2 id="R4">Research 4</h2>
 <p>This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla</p>
-<a align="right"  href="#TopOFThePage">Top</a>
+<a align="right"  href="#TopOFTheResearchPage">Top</a>
