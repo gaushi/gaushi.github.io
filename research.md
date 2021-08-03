@@ -2,42 +2,38 @@
 title: "Research"
 layout: page
 ---
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'R1')" id="defaultOpen">Research 1 </button>
-  <button class="tablinks" onclick="openCity(event, 'R2')">Research 2</button>
-  <button class="tablinks" onclick="openCity(event, 'R3')"">Research 3</button>
-</div>
 
-<div id="R1" class="tabcontent">
-  <h3>Research 1</h3>
-  <p>London is the capital city of England.</p>
-</div>
+<p><a id="TopOFThePage" href="#R1">Title of Research 1</a> some description may be .....
+end of short description</p>
+<p><a href="#R2">Title of Research 2</a> some description may be .....
+end of short description</p>
+<p><a href="#R3">Title of Research 3</a> some description may be .....
+end of short description</p>
+<p><a href="#R4">Title of Research 4</a> some description may be .....
+end of short description</p>
 
-<div id="R2" class="tabcontent">
-  <h3>Research 2</h3>
-  <p>Paris is the capital of France.</p> 
-</div>
+<h2 id="R1">Research 1</h2>
+<p>This chapter explains ba bla bla
+This chapter explains ba bla bla
+This chapter explains ba bla bla
+This chapter explains ba bla bla
+This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla
 
-<div id="R3" class="tabcontent">
-  <h3>Research 3</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
+This chapter explains ba bla bla
+v
+</p>
 
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
+<h2 id="R2">Research 2</h2>
+<p>This chapter explains ba bla bla
+This chapter explains ba bla bla
+vv
+v
+vThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla
+This chapter explains ba bla bla</p>
 
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
+<h2 id="R3">Research 3</h2>
+<p>This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla</p>
+<a valign="left"  href="#TopOFThePage">Top</a>
+
+<h2 id="R4">Research 4</h2>
+<p>This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla</p>
