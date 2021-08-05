@@ -40,3 +40,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-scholar
