@@ -14,7 +14,7 @@ end of short description</p>
 <h2 id="R1">Backstory 1</h2> <!--Title of your research -->
 <p> 
   Text if you want to add any                 <!-- Optional and additional text -->
-  {% include_relative /files/research1.md %}  <!-- Include the .md file with data/content of your research  OR add the content manually. -->
+  {% include_relative /files/backstory1.md %}  <!-- Include the .md file with data/content of your research  OR add the content manually. -->
 </p>
 <a align="right"  href="#TopOFThePage">Top</a> <!-- a link to go back to the top of this page -->
 
@@ -26,11 +26,11 @@ end of short description</p>
 
 <h2 id="R3">Backstory 3</h2>
 <p>
-  This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla
+  Backstory 3 ba bla bla
 </p>
 <a align="right"  href="#TopOFThePage">Top</a>
 
 <h2 id="R4">Backstory 4</h2>
-<p>This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla</p>
+<p>This chapter explains Backstory 4 This chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla blaThis chapter explains ba bla bla</p>
 <a align="right"  href="#TopOFThePage">Top^</a>
 
