@@ -1,4 +1,4 @@
-# Utility of Global Biodiversity information facility for organizing sampling trips
+# Utility of Global Biodiversity Information Facility for Organizing Sampling Trips
 
 
 
