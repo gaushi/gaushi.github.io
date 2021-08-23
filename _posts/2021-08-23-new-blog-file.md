@@ -1,3 +1,8 @@
+---
+title:  "new blog file"
+layout: post
+---
+
 <table>
   <tr><td width="60%" valign="top" align="left">
       This is the Teeny Tiny plant I work on. I love to spends hours and days and...years just looking at it and falling in love with it.
