@@ -27,8 +27,8 @@ A Special Thank you:
 To ....., where I have spent every summer of my Ph.D. conducting my dissertation research. The station has provided funding, housing, lab facilities, close access to my field sites, and a wonderful research community.
 
 </td>
-    <td width="40%" height="60%" valign="top" style="border: none;">
-      <img style="float: center;" src="/assets/images/Gautam_Indiana.JPG" width="100%"/>
+    <td width="40%" height="100%" valign="top" style="border: none;">
+      <img style="float: center;" src="/assets/images/Gautam_Indiana.JPG"/>
     </td>
   </tr>
 </table>
