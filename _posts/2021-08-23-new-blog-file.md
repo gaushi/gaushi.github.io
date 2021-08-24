@@ -4,7 +4,7 @@ layout: post
 ---
 Sampling for the infected host is slightly complicated than lets say if you are sampling for the host alone. This gets even trickier when it comes to the sampling for the pathogen that is obligate biotroph like *Hyaloperonospora arabidopsidis* (downy mildew disease causing oomycete of *Arabidopsis thaliana*). 
 
-![H. arabidopsidis infected A. thaliana](../assets/images/Gautam_Hpa_infectedPlant.png)
+![H. arabidopsidis infected A. thaliana](../assets/images/Gautam_Hpa_infectedPlant.png){: style="float: right"}
 
 Phenology of host and pathogen both play role in organizing these collection trips. Pathogen infection is normally observed as sporulation events (at least in sporulating fungi and oomycetes) and if the sporulation is your only visible identification of the infected plants then one has to have enough knowledge about the epidemiology of the disease and host pathology. Because if you do not plan your trip with these factors taken into account then the whole endeavor might result in the failure. Better planning usually results in the success of such trips.
 
