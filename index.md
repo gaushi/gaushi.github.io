@@ -1,6 +1,6 @@
 ---
 layout : page
-title : "About me"
+#title : "About me"
 ---
 <table height="60%">
   <tr><td width="60%" height="60%" valign="top" align="left">
