@@ -1,5 +1,5 @@
 ---
-title:  "Sample blog file"
+title:  "Sample blog with small image"
 layout: post
 ---
 Sampling for the infected host is slightly complicated than lets say if you are sampling for the host alone. This gets even trickier when it comes to the sampling for the pathogen that is obligate biotroph like *Hyaloperonospora arabidopsidis* (downy mildew disease causing oomycete of *Arabidopsis thaliana*). 
