@@ -50,7 +50,7 @@ scholar:
   order: ascending
 
   source: ./_bibliography
-  bibliography: references.bib
+  bibliography: publications.md
 
   details_dir:    bibliography
   details_layout: bibtex.html
