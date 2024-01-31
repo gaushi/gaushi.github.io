@@ -14,10 +14,10 @@ layout : page
       Ph.D. (Dec 2013), The Ohio State University, Columbus, OH
   </li>
   <li>
-      MS (xxxx), India
+      MSc, Plant Pathology (2002), Konkan Agricultural University, Dapoli, MH, India
   </li>
   <li>
-      BS (xxxx), India
+      BSc, Agriculture (2000), Konkan Agricultural University, Dapoli, MH, India
   </li>
 </ul>
 
