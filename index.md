@@ -1,8 +1,8 @@
 ---
 layout : page
-#title : "About me"
+title : "Wild plant hosts and their obligate biotrophic pathogens in natural ecosystems"
 ---
-### Wild plant hosts and their obligate biotrophic pathogens in natural ecosystems
+
     
 ### Plant pathology
 ### Genomics and Population Genomics
