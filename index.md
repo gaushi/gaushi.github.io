@@ -4,9 +4,9 @@ title : "Wild plant hosts and their obligate biotrophic pathogens in natural eco
 ---
 
     
-### Plant pathology
-### Genomics and Population Genomics
-### Computational biology 
+## Plant pathology
+## Genomics and Population Genomics
+## Computational biology 
 to understand how plants and their pathogens co-evolve. 
 
     
