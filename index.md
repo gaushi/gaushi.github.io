@@ -4,27 +4,13 @@ layout : page
 ---
 <table height="60%">
   <tr><td width="60%" height="60%" valign="top" align="left">
-      I am a Post-Doctoral Researcher at Max Planck Institute for Developmental Biology in the lab of Detlef Weigel; Tuebingen, Germany.
-      My research integrates disiplines of plant pathology, genetics, population genomics and computational biology to understand how plants and their pathogens co-evolve.
-     For more information on my research interests and projects, check out my <a class="more" href="{% link research.md %}">Research page</a>!
+    Wild plant hosts and their obligate biotrophic pathogens in natural ecosystems. 
     
-    Education:
-<ul>
-  <li>
-      Ph.D. (Dec 2013), The Ohio State University, Columbus, OH
-  </li>
-  <li>
-      MSc, Plant Pathology (2002), Konkan Agricultural University, Dapoli, MH, India
-  </li>
-  <li>
-      BSc, Agriculture (2000), Konkan Agricultural University, Dapoli, MH, India
-  </li>
-</ul>
-
+    Plant pathology, Genomics and Population genomics, and Computational biology to understand how plants and their pathogens co-evolve.
+     #For more information on my research interests and projects, check out my <a class="more" href="{% link research.md %}">Research page</a>!
     
-A Special Thank you:
-
-To ....., where I have spent every summer of my Ph.D. conducting my dissertation research. The station has provided funding, housing, lab facilities, close access to my field sites, and a wonderful research community.
+North American wild grapes *Vitis* sp. and downy mildew *Plasmopara viticola*
+North American arabidopsis *Arabidopsis thaliana* and downy mildew *Hyaloperonospora arabidopsidis*
 
 </td>
     <td width="40%" height="100%" valign="top" style="border: none;">
