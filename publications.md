@@ -2,5 +2,5 @@
 title: "Publications"
 layout: page
 ---
-Under construction...
+<a href="/files/CV_GS_UTK.pdf">Gautam Shirsekar</a> 
 
