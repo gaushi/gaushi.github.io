@@ -1,6 +1,6 @@
 ---
 layout : page
-title : "Wild plant hosts and their obligate biotrophic pathogens in natural ecosystems"
+title : "Wild Plant - Pathogen Coevolution in Natural Ecosystems"
 ---
 
 <h2 style="text-align: center;">Plant Pathology</h2> 
