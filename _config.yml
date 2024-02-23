@@ -30,7 +30,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gshirsek@utk.edu"}
   - {title: Github, icon: github, url: "https://github.com/gaushi"}
-  - {title: Twitter, icon: bluesky, url: "https://twitter.com/gaushi"}
+  - {title: Twitter, icon: mastodon, url: "https://twitter.com/gaushi"}
   - {title: Google-Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=UL6yZWYAAAAJ&hl=en&oi=ao"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
