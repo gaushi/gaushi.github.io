@@ -9,13 +9,15 @@ title : "Wild plant hosts and their obligate biotrophic pathogens in natural eco
 
 <h3 style="text-align: center;">to understand how plants and their pathogens co-evolve </h3>
 
-\\
-
-#### North American arabidopsis *Arabidopsis thaliana* and downy mildew *Hyaloperonospora arabidopsidis*
-<img align="right" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" height="60%" width="40%"/>
 
 
+### North American arabidopsis *Arabidopsis thaliana* and downy mildew *Hyaloperonospora arabidopsidis*
 
-####  North American wild grapes *Vitis* sp. and downy mildew *Plasmopara viticola* 
+<p align="center">
+  <img width="460" height="300" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" >
+</p>
+
+
+###  North American wild grapes *Vitis* sp. and downy mildew *Plasmopara viticola* 
 
 
