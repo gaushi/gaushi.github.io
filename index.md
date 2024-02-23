@@ -4,10 +4,10 @@ title : "Wild plant hosts and their obligate biotrophic pathogens in natural eco
 ---
 
     
-## Plant pathology
-## Genomics and Population Genomics
-## Computational biology 
-to understand how plants and their pathogens co-evolve. 
+<center> ## Plant pathology </center>
+<center> ## Genomics and Population Genomics </center>
+<center> ## Computational biology </center>
+<center> to understand how plants and their pathogens co-evolve. </center>
 
     
 ####  North American wild grapes *Vitis* sp. and downy mildew *Plasmopara viticola* 
