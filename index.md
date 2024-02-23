@@ -10,11 +10,8 @@ title : "Wild Plant - Pathogen Coevolution in Natural Ecosystems"
 
 ###  North American wild grapes *Vitis* sp. and downy mildew *Plasmopara viticola* 
 
-### North American arabidopsis *Arabidopsis thaliana* and downy mildew *Hyaloperonospora arabidopsidis*
+#### North American arabidopsis *Arabidopsis thaliana* and downy mildew *Hyaloperonospora arabidopsidis*
 
-<p align="center">
-  <img width="230" height="150" src="/assets/images/Gautam_Hpa_infectedPlant.JPG" >
-</p>
 
 
 
