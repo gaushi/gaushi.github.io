@@ -29,3 +29,5 @@ layout: page
     </td>
   </tr>
 </table>
+
+![Applying to Graduate School](https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/)
