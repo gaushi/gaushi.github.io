@@ -8,7 +8,7 @@ layout: page
   <tr><td width="10%" height="10%" valign="top" align="left">
   <ul>
   <li>
-       <a href="/files/CV_GS_UTK.pdf">Gautam Shirsekar</a> 
+       <a href="/files/CV_GS_UTK.pdf" target="_blank">Gautam Shirsekar</a> 
   </li>
 </ul>
    
@@ -21,7 +21,7 @@ layout: page
   <ul>
   <li>
        Looking for research technician, undergraduate, graduate students, and postdoc 
-        <a href="https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/"> Applying to the Graduate School</a> 
+        <a href="https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/" target="_blank"> Applying to the Graduate School</a> 
 
   </li>
 </ul>
@@ -31,5 +31,3 @@ layout: page
     </td>
   </tr>
 </table>
-
-![Applying to Graduate School](https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/)
