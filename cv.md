@@ -4,8 +4,8 @@ layout: page
 ---
 
 
-<table height="20%">
-  <tr><td width="10%" height="10%" valign="top" align="left">
+<table height="70%">
+  <tr><td width="10%" height="60%" valign="top" align="left">
   <ul>
   <li>
        <a href="/files/CV_GS_UTK.pdf" target="_blank">Gautam Shirsekar</a> 
@@ -13,7 +13,7 @@ layout: page
 </ul>
    
 </td>
-    <td width=20 height=30 valign="top" style="border: none;">
+    <td width="60%" height="60%" valign="top" style="border: none;">
       <img style="float: center;" src="/assets/images/Gautam_Indiana.JPG" width="100%"/>
     </td>
     </tr>
@@ -27,7 +27,7 @@ layout: page
 </ul>
    
 </td>
-    <td width="40%" height="60%" valign="top" style="border: none;">  
+    <td  valign="top" style="border: none;">  
     </td>
   </tr>
 </table>
