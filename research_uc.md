@@ -3,14 +3,37 @@ title: "Research"
 layout: page
 ---
 UNDER CONSTRUCTION
-<p><a href="#R1">Title of Research 1</a> some description may be .....
-end of short description</p>
-<p><a href="#R2">Title of Research 2</a> some description may be .....
-end of short description</p>
-<p><a href="#R3">Title of Research 3</a> some description may be .....
-end of short description</p>
-<p><a href="#R4">Title of Research 4</a> some description may be .....
-end of short description</p>
+<table height="70%">
+  <tr>
+    <td width="90%" height="90%" valign="top" align="left">
+  <ul>
+  <li>
+       <a href="#R1">Title of Research 1</a> some description may be .....
+end of short description
+  </li>
+</ul>
+   <ul>
+  <li>
+       <a href="#R2">Title of Research 2</a> some description may be .....
+end of short description
+  </li>
+</ul>
+
+<ul>
+  <li>
+       <a href="#R3">Title of Research 3</a> some description may be .....
+end of short description
+  </li>
+</ul>
+<ul>
+  <li>
+       <a href="#R4">Title of Research 4</a> some description may be .....
+end of short description
+  </li>
+</ul>
+</td>
+   </tr>
+</table>
 
 <h2 id="R1">Research 1</h2> <!--Title of your research -->
 <p> 
