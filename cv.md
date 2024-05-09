@@ -14,7 +14,7 @@ layout: page
    
 </td>
     <td width="60%" height="60%" valign="top" style="border: none;">
-      <img style="float: center;" src="/assets/images/Gautam_Indiana.JPG" height="50%" width="50%"/>
+      <img style="float: center;" src="/assets/images/Gautam_BigSouthFork1.jpeg" height="70%" width="70%"/>
     </td>
     </tr>
 <tr><td width="60%" height="60%" valign="top" align="left">
