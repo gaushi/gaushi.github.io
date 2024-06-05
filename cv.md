@@ -9,7 +9,8 @@ layout: page
   <tr><td width="10%" height="60%" valign="top" align="left">
   <ul>
   <li>
-       <a href="/files/CV_GS_UTK.pdf" target="_blank">Gautam Shirsekar</a> 
+       <a href="/files/CV_GS_UTK.pdf" target="_blank">Gautam Shirsekar</a> <br/>
+    Principal Investigator
   </li>
 </ul>
    
@@ -22,9 +23,10 @@ layout: page
 <tr><td width="10%" height="60%" valign="top" align="left">
   <ul>
   <li>
-       <a href="" target="_blank">Olivia Lambert</a>
+       <a href="" target="_blank">Olivia Lambert</a><br />
     Field Collections Manager
   </li>
+    
 </ul>
    
 </td>
