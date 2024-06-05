@@ -22,7 +22,8 @@ layout: page
 <tr><td width="10%" height="60%" valign="top" align="left">
   <ul>
   <li>
-       <a href="" target="_blank">Olivia Lambert</a> 
+       <a href="" target="_blank">Olivia Lambert</a>
+    Field Collections Manager
   </li>
 </ul>
    
