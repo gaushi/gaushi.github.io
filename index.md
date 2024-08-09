@@ -4,7 +4,7 @@ title : "Wild Plant - Pathogen Coevolution in Natural Ecosystems"
 ---
 
 <p align="center">
-<img style="float: center;" src="/assets/images/coevolutionlab_logo.png" height="50%" width="50%" class = "center" />
+<img  src="/assets/images/coevolutionlab_logo.png" height="50%" width="50%" />
   </p>
 Severe disease epidemics in wild plant pathosystems are rare when compared to crop pathosystems. Genetic heterogeneity of the hosts is a significant feature of wild plant populations. It presumably plays a major role in suppressing the emergence of novel pathogen virulence. My lab aims to understand how the genetic makeup of wild grape populations in the Blue Ridge Mountains influences its coevolution with a highly coevolved downy mildew-causing pathogen and vice versa. We integrate fields of genomics, population and evolutionary genomics, computational biology, ecology, and plant pathology. My lab’s long-term goal is to learn evolutionary principles from wild plant pathosystems that will be useful in managing crop diseases sustainably.
 
