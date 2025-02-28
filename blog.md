@@ -12,11 +12,6 @@ title: "Blog"
     
 </ul>
    
-</td>
-    <td width="60%" height="60%" valign="top" style="border: none;">
-      <img style="float: center;" src="/assets/images/david_holdridge.jpg" height="70%" width="70%"/>
-    </td>
-    </tr>
  
  
   </table>  
