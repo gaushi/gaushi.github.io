@@ -7,7 +7,7 @@ title: "Blog"
   <ul>
   <li>
        <a href="" target="_blank">David Holdridge</a><br />
-      Lab Alumnus David Holdridge received Fulbright Scholarship and will be off to Indonesia <a href="https://www.w3schools.com](https://news.utk.edu/2024/05/28/12-students-and-recent-graduates-offered-fulbright-scholarships" target="_blank">Announcement</a> 
+      Lab Alumnus David Holdridge received <a href="https://news.utk.edu/2024/05/28/12-students-and-recent-graduates-offered-fulbright-scholarships" target="_blank">Fulbright Scholarship</a> and will be off to Indonesia. 
   </li>
     
 </ul>
