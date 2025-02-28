@@ -2,7 +2,7 @@
 layout: default
 title: "Blog"
 ---
-<table>
+
 <tr><td width="10%" height="60%" valign="top" align="left">
   <ul>
   <li>
@@ -14,4 +14,4 @@ title: "Blog"
    
  
  
-  </table>  
+
